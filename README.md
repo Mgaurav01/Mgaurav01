@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gauravmazumder5" target="blank"><img src="https://img.shields.io/twitter/follow/gauravmazumder5?logo=twitter&style=for-the-badge" alt="gauravmazumder5" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structure and Algorithm**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **JavaScript , ReactJS**
+- 🌱 I’m currently learning **JavaScript , ReactJS , MERN**
 
 - 👯 I’m looking to collaborate on **Open Sources**
 
